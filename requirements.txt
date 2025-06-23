@@ -1,0 +1,9 @@
+mkdir trend_bot
+cd trend_bot
+
+echo "
+feedparser
+requests
+apscheduler
+beautifulsoup4
+" > requirements.txt
